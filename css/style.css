@@ -15,7 +15,7 @@ h1{
 
 h2{
     font-size: 32px;
-    color: 2px 4px #808080;
+    text-shadow: 2px 4px #808080;
 }
 
 p{
@@ -73,7 +73,7 @@ div{
     border-left: 10px;
 }
 .yellow h2{
-        text-shadow: 2px 4px #c7e2c7;
+    text-shadow: 2px 4px #c7e2c7;
 }
 .green{
     background-color: #00EB00;
