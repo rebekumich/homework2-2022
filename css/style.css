@@ -51,14 +51,14 @@ div{
     background: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom-width: 0px 10px 3px 10px;
+    border-width: 0px 10px 3px 10px;
 }
 
 .blue{
     background: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border-bottom-width: 0px 10px 3px 0px;
+    border-width: 0px 10px 3px 0px;
 }
 
 .yellow{
@@ -66,7 +66,7 @@ div{
     color: #000000;
     text-align: right;
     margin-left: 50px;
-    border-bottom-width: 0px 0px 3px 10px;
+    border-width: 0px 0px 3px 10px;
 }
 .yellow h2{
     text-shadow: 2px 4px #c7e2c7;
@@ -75,7 +75,7 @@ div{
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-bottom-width: 0px 10px 3px 0px;
+    border-width: 0px 10px 3px 0px;
     
 }
 
